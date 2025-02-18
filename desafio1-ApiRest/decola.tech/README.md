@@ -56,12 +56,7 @@ Este projeto tem como objetivo desenvolver uma aplicação CRUD (Create, Read, U
 Com essas implementações, o projeto oferece uma aplicação robusta para gerenciamento de usuários e suas respectivas informações bancárias e de cartão de crédito, seguindo as melhores práticas de desenvolvimento com Spring Boot e Java.
 
 ### 🖨️ Imagens do Projeto
-<img width="250" src="C:\Users\italo\Documents\GitHub\decola-tech-2025\desafio1-ApiRest\assets\print1.png">
-<img width="250" src="C:\Users\italo\Documents\GitHub\decola-tech-2025\desafio1-ApiRest\assets\print2.png">
-<img width="250" src="C:\Users\italo\Documents\GitHub\decola-tech-2025\desafio1-ApiRest\assets\print3.png">
-<img width="250" src="C:\Users\italo\Documents\GitHub\decola-tech-2025\desafio1-ApiRest\assets\print4.png">
-<img width="250" src="C:\Users\italo\Documents\GitHub\decola-tech-2025\desafio1-ApiRest\assets\print5.png">
-<img width="250" src="C:\Users\italo\Documents\GitHub\decola-tech-2025\desafio1-ApiRest\assets\print6.png">
+<img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio1-ApiRest/assets/print1.png"><img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio1-ApiRest/assets/print2.png"><img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio1-ApiRest/assets/print3.png"><img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio1-ApiRest/assets/print4.png"><img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio1-ApiRest/assets/print5.png"><img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio1-ApiRest/assets/print6.png">
 
 ### ▶️ Intruções de Uso
 Antes de começar, certifique-se de ter os seguintes requisitos instalados no seu sistema:

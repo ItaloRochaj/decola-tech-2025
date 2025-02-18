@@ -61,5 +61,4 @@ public class Account {
     public void setLimit(BigDecimal limit) {
         this.limit = limit;
     }
-
 }

@@ -1,10 +1,18 @@
 package api.decola.tech.service;
 
-import api.decola.tech.domain.model.User;
+import api.decola.tech.dto.UserDTO;
+
+import java.util.List;
 
 public interface UserService {
 
-    User findById(Long id);
+    UserDTO findById(Long id);
 
-    User create(User userToCreate);
+    UserDTO create(UserDTO userToCreate);
+
+    List<UserDTO> findAll();
+
+    UserDTO update(Long id, UserDTO userToUpdate);
+
+    void delete(Long id);
 }

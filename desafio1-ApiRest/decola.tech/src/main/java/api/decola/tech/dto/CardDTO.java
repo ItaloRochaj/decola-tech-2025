@@ -1,20 +1,11 @@
-package api.decola.tech.domain.model;
-
-import jakarta.persistence.*;
+package api.decola.tech.dto;
 
 import java.math.BigDecimal;
 
-@Entity(name = "tb_card")
-public class Card {
+public class CardDTO {
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
-    @Column(unique = true)
     private String number;
-
-    @Column(name = "available_limit", precision = 13, scale = 2)
     private BigDecimal limit;
 
     public Long getId() {

@@ -5,11 +5,11 @@ Este repositório corresponde ao Desafio #01 da [Bootcamp Decola Tech 2025](http
 > ⚠️ **Nota:** no [projeto original da DIO](https://github.com/falvojr/santander-dev-week-2023), foi utilizado o Railway, porém por problema técnico da plataforma, substitui pela plataforma Render.
 
 ### Índice
-- [Desafio de Projeto]()
-- [Tecnologias Utilizadas]()
-- [Objetivos]()
-- [Imagens do Projeto]()
-- [Instruções de Uso]()
+- [Desafio de Projeto](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio1-ApiRest#-desafio-de-projeto)
+- [Tecnologias Utilizadas](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio1-ApiRest#%EF%B8%8F-tecnologias-utilizadas)
+- [Objetivos](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio1-ApiRest#-objetivos)
+- [Imagens do Projeto](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio1-ApiRest#%EF%B8%8F-imagens-do-projeto)
+- [Instruções de Uso](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio1-ApiRest#%EF%B8%8F-intru%C3%A7%C3%B5es-de-uso)
 
 ### 🎯 Desafio de Projeto
 O desafio do projeto consiste em construir uma API RESTful do zero utilizando Java 17 com Spring Boot 3. O objetivo é criar uma solução eficiente e escalável, incorporando tecnologias como Spring Data JPA para manipulação de dados, OpenAPI para documentação automática, Swagger para visualização interativa da API, Docker para containerização e Render para deploy. Durante o desenvolvimento, o foco será em boas práticas de construção de APIs, integração de ferramentas e automação, proporcionando uma experiência completa de desenvolvimento e deploy de uma API moderna e funcional.

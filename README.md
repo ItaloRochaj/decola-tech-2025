@@ -5,9 +5,9 @@ Este repositório corresponde ao compliado de conteúdos utilizados na [Bootcamp
 ### 🗂️ O que você encontrará aqui?
 Este repositório está organizado para armazenar e gerenciar todos os materiais da bootcamp, assim como os desafios, links úteis, estudos e outros recursos.
 
-- 🔍 [Recursos de Estudo:]() links e materiais recomendados para o estudo da bootcamp.
-- 💻 [Projetos e Desafios:]() códigos e exercícios práticos realizados durante a bootcamp.
-- 🔗 [Links Úteis:]() links e artigos úteis para a bootcamp.
+- 🔍 [Recursos de Estudo:](https://github.com/ItaloRochaj/decola-tech-2025?tab=readme-ov-file#-recursos-de-estudo) links e materiais recomendados para o estudo da bootcamp.
+- 💻 [Projetos e Desafios:](https://github.com/ItaloRochaj/decola-tech-2025?tab=readme-ov-file#-projetos-e-desafios) códigos e exercícios práticos realizados durante a bootcamp.
+- 🔗 [Links Úteis:](https://github.com/ItaloRochaj/decola-tech-2025?tab=readme-ov-file#-links-%C3%BAteis) links e artigos úteis para a bootcamp.
 
 ### 🔍 Recursos de Estudo
 Aqui você encontrará uma lista de recursos úteis para se preparar para o exame:

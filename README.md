@@ -19,7 +19,7 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para o exam
 Veja os projetos e desafios que completei durante a bootcamp:
 - [Desafios de Código](C:\Users\italo\Documents\GitHub\decola-tech-2025\desafio1-ApiRest)
 - [Desafio 1: Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Render](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio1-ApiRest)
-- [Desafio 2: ]()
+- [Desafio 2: Criando seu Board de Tarefas com Java]()
 - [Desafio 3: ]()
 - [Desafio 4: ]()
 - [Desafio 5: ]()

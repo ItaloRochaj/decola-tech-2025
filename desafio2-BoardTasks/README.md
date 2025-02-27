@@ -5,11 +5,11 @@ Este repositório corresponde ao Desafio #02 da [Bootcamp Decola Tech 2025](http
 > ⚠️ **Nota:** [projeto original da DIO](https://github.com/digitalinnovationone/board.git).
 
 ### Índice
-- [Desafio de Projeto]()
-- [Tecnologias Utilizadas]()
-- [Objetivos]()
-- [Imagens do Projeto]()
-- [Instruções de Uso]()
+- [Desafio de Projeto](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio2-BoardTasks#-desafio-de-projeto)
+- [Tecnologias Utilizadas](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio2-BoardTasks#%EF%B8%8F-tecnologias-utilizadas)
+- [Objetivos](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio2-BoardTasks#-objetivos)
+- [Imagens do Projeto](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio2-BoardTasks#%EF%B8%8F-imagens-do-projeto)
+- [Instruções de Uso](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio2-BoardTasks#%EF%B8%8F-intru%C3%A7%C3%B5es-de-uso)
 
 ### 🎯 Desafio de Projeto
 O desafio do projeto consiste em construir um board de tarefas em Java. O objetivo foi passar por todas as etapas do desenvolvimento, desde o planejamento e estruturação até a implementação de funcionalidades como gerenciamento de dados e integração entre camadas, seguindo boas práticas de programação.
@@ -51,7 +51,7 @@ Este projeto tem como objetivo criar um board de tarefas em Java, desenvolvendo 
 Com essas implementações, o projeto oferece uma aplicação robusta para gerenciamento de board de tarefas e suas respectivas informações, seguindo as melhores práticas de desenvolvimento com Spring Boot e Java.
 
 ### 🖨️ Imagens do Projeto
-<img width="350" src=""><img width="350" src=""><img width="350" src="">
+<img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio2-BoardTasks/assets/img1.png"><img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio2-BoardTasks/assets/img2.png"><img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio2-BoardTasks/assets/img3.png">
 
 ### ▶️ Intruções de Uso
 Antes de começar, certifique-se de ter os seguintes requisitos instalados no seu sistema:

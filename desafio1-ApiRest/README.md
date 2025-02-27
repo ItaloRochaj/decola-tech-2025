@@ -61,7 +61,7 @@ Com essas implementações, o projeto oferece uma aplicação robusta para geren
 ### ▶️ Intruções de Uso
 Antes de começar, certifique-se de ter os seguintes requisitos instalados no seu sistema:
 - [Java 17](https://www.oracle.com/br/java/technologies/downloads/)
-- Gradle
+- [Gradle](https://gradle.org/)
 - [Docker](https://www.docker.com/products/docker-desktop/)
 - [Postman](https://www.postman.com/downloads/)
 - [PostgreSQL](https://www.postgresql.org/download/)

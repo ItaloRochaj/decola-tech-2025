@@ -1,6 +1,6 @@
 ## ☕ Criando seu Board de Tarefas com Java
 
-Este repositório corresponde ao Desafio #02 da [Bootcamp Decola Tech 2025](https://www.dio.me/bootcamp/decola-tech-2025) para fornecer instruções sobre como construir um board de tarefas em Java utilizando o Java 17. 
+Este repositório corresponde ao Desafio #02 da [Bootcamp Decola Tech 2025](https://www.dio.me/bootcamp/decola-tech-2025) para fornecer instruções sobre como construir um board de tarefas utilizando Java 17, Spring 3 e MySQL, incluindo como melhoria, funcionalidade de saída para exportação dos dados em arquivo PDF. 
 
 > ⚠️ **Nota:** [projeto original da DIO](https://github.com/digitalinnovationone/board.git).
 
@@ -20,7 +20,7 @@ O desafio do projeto consiste em construir um board de tarefas em Java. O objeti
 | <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a> <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/></a> <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a> 
 
 ### 📋 Objetivos
-Este projeto tem como objetivo criar um board de tarefas em Java, desenvolvendo uma aplicação CRUD (Create, Read, Update, Delete) para gerenciar tarefas, através de um menu no terminal.
+Este projeto tem como objetivo criar um board de tarefas em Java, desenvolvendo uma aplicação CRUD (Create, Read, Update, Delete) para gerenciar tarefas, através de um menu no terminal, incluindo a funcionalidade de exportação de dados em PDF.
 
 **1. Estrutura do Projeto:**
 - [x] CRUD (Create, Read, Update, Delete)
@@ -47,6 +47,13 @@ Este projeto tem como objetivo criar um board de tarefas em Java, desenvolvendo 
 - [x] Um card deve armazenar a data e hora em que foi colocado em uma coluna e a data e hora que foi movido pra a próxima coluna;
 - [x] O código deve gerar um relatório do board selecionado com o tempo que cada tarefa demorou para ser concluída com informações do tempo que levou em cada coluna
 - [x] O código dever gerar um relatório do board selecionado com o os bloqueios dos cards, com o tempo que ficaram bloqueados e com a justificativa dos bloqueios e desbloqueios.
+
+**6. Melhorias**  
+Este projeto inclui uma funcionalidade para exportar relatórios de um board de tarefas para um arquivo PDF. A implementação foi feita utilizando a biblioteca iText para geração de PDFs e JDBC para conexão e extração de dados de um banco de dados MySQL.
+- [x] iText: Biblioteca para criação e manipulação de documentos PDF.
+- [x] JDBC (Java Database Connectivity): API para conexão e execução de consultas no banco de dados MySQL.
+- [x] MySQL: Sistema de gerenciamento de banco de dados relacional usado para armazenar os dados dos boards e cartões.
+- [x] O objetivo da funcionalidade é permitir que os usuários exportem relatórios dos boards em formato PDF, contendo informações detalhadas sobre os cartões associados a cada board.
 
 Com essas implementações, o projeto oferece uma aplicação robusta para gerenciamento de board de tarefas e suas respectivas informações, seguindo as melhores práticas de desenvolvimento com Spring Boot e Java.
 

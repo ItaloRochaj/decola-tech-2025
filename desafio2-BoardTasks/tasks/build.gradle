@@ -1,0 +1,45 @@
+plugins {
+	id 'java'
+	id 'org.springframework.boot' version '3.4.3'
+	id 'io.spring.dependency-management' version '1.1.7'
+}
+
+group = 'board'
+version = '0.0.1-SNAPSHOT'
+
+java {
+	toolchain {
+		languageVersion = JavaLanguageVersion.of(17)
+	}
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter'
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	implementation 'org.liquibase:liquibase-core:4.29.1'
+	implementation 'mysql:mysql-connector-java:8.0.33'
+	implementation 'org.apache.commons:commons-csv:1.10.0'
+	implementation 'com.itextpdf:itext7-core:7.2.2'
+
+	// Lombok
+	implementation 'org.projectlombok:lombok:1.18.34'
+	annotationProcessor 'org.projectlombok:lombok:1.18.34' // Adicionado
+
+	// Testes
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+	testAnnotationProcessor 'org.projectlombok:lombok:1.18.34'
+}
+
+tasks.named('test') {
+	useJUnitPlatform()
+}
+
+// Adicionando a opção para compilar com -Xlint:deprecation
+tasks.withType(JavaCompile) {
+	options.compilerArgs << "-Xlint:deprecation"
+}

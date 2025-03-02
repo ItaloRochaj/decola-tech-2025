@@ -61,8 +61,8 @@ Este projeto é uma excelente oportunidade para praticar e aprimorar habilidades
 ### 🖨️ Imagens do Projeto
 <img width="350" src="">
 <img width="350" src="">
-<img width="350" src="">
-<img width="350" src="">
+<img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio5-BuzzFeed/assets/testes.jpeg">
+<img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio5-BuzzFeed/assets/coverage.png">
 
 ### ▶️ Intruções de Uso
 **1. Pré-requisitos:**

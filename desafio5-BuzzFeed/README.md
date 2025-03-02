@@ -21,7 +21,6 @@ O desafio deste projeto é construir um clone do BuzzFeed Quizz utilizando Angul
 
 ### 📋 Objetivos
 O principal objetivo deste projeto é construir um clone do BuzzFeed Quizz utilizando Angular 14. A aplicação deve permitir que os usuários participem de quizzes interativos, com resultados baseados nas respostas fornecidas. Além disso, o projeto visa:
-
 - [x] **Melhorar habilidades em Angular:** Praticar o desenvolvimento de aplicações web utilizando Angular 14.
 - [x] **Componentização:** Aprender a dividir a aplicação em componentes reutilizáveis e bem estruturados.
 
@@ -38,6 +37,24 @@ O principal objetivo deste projeto é construir um clone do BuzzFeed Quizz utili
 - [x] **Serviços:** Implementar serviços para gerenciar a lógica de negócios e a comunicação com APIs, se necessário.
 - [x] **Testes:** Escrever testes unitários utilizando frameworks como Jasmine e Karma.
 - [x] **Deploy:** Configurar e realizar o deploy da aplicação no Vercel.
+
+**3. Testes Existentes:**
+`AppComponent Testes:`
+- [x] Verifica a criação do componente.
+- [x] Verifica o título do aplicativo.
+- [x] Testa a navegação para a rota "quizz".
+- [x] Verifica a renderização do título do QuizzComponent.
+- [x] Testa o clique de botão e a chamada de métodos.
+
+`QuizzComponent Testes:`
+- [x] Verifica a criação do componente.
+- [x] Verifica a renderização do título.
+- [x] Verifica se uma variável específica está definida.
+- [x] Testa a chamada de um método específico (someMethod).
+
+`HomeComponent Testes:`
+- [x] Verifica a criação do componente.
+- [x] Verifica a renderização do título no QuizzComponent.
 
 Este projeto é uma excelente oportunidade para praticar e aprimorar habilidades em Angular, desenvolvimento de front-end, testes unitários e deploy de aplicações web.
 

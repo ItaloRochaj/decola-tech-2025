@@ -23,7 +23,7 @@ Veja os projetos e desafios que completei durante a bootcamp:
 - [Desafio 3: ]()
 - [Desafio 4: ]()
 - [Desafio 5: 
-Criando um Clone do BuzzFeed com Angular]()
+Criando um Clone do BuzzFeed com Angular](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio5-BuzzFeed)
 - [Desafio 6: ]()
 - [Desafio 7: ]()
 - [Desafio 8: ]()

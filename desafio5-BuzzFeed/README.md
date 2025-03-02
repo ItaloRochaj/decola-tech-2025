@@ -1,6 +1,6 @@
 # 👾 BuzzFeed Quizz
 
-Este repositório corresponde ao Desafio #05 da [Bootcamp Decola Tech 2025](https://www.dio.me/bootcamp/decola-tech-2025) para fornecer instruções sobre como construir um clone do BuzzFeed Quizz com Angular 14, incluindo como melhorias, testes unitários e deploy no [Vercel](https://vercel.com/).
+Este repositório corresponde ao Desafio #05 da [Bootcamp Decola Tech 2025](https://www.dio.me/bootcamp/decola-tech-2025) para fornecer instruções sobre como construir um clone do BuzzFeed Quizz com Angular 14, incluindo como melhorias testes unitários e deploy no [Vercel](https://vercel.com/).
 
 > ⚠️ **Nota:** [projeto original da DIO](https://github.com/felipeAguiarCode/angular-buzzfeed-quizz-clone).
 

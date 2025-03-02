@@ -5,11 +5,11 @@ Este repositório corresponde ao Desafio #05 da [Bootcamp Decola Tech 2025](http
 > ⚠️ **Nota:** [projeto original da DIO](https://github.com/felipeAguiarCode/angular-buzzfeed-quizz-clone).
 
 ### Índice
-- [Desafio de Projeto]()
-- [Tecnologias Utilizadas]()
-- [Objetivos]()
-- [Imagens do Projeto]()
-- [Instruções de Uso]()
+- [Desafio de Projeto](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio5-BuzzFeed#-desafio-de-projeto)
+- [Tecnologias Utilizadas](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio5-BuzzFeed#%EF%B8%8F-tecnologias-utilizadas)
+- [Objetivos](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio5-BuzzFeed#-objetivos)
+- [Imagens do Projeto](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio5-BuzzFeed#%EF%B8%8F-imagens-do-projeto)
+- [Instruções de Uso](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio5-BuzzFeed#%EF%B8%8F-intru%C3%A7%C3%B5es-de-uso)
 
 ### 🎯 Desafio de Projeto
 O desafio deste projeto é construir um clone do BuzzFeed Quizz utilizando Angular 14, tendo como objetivo replicar a funcionalidade de quizzes interativos, permitindo que os usuários respondam a perguntas e obtenham resultados baseados em suas respostas.

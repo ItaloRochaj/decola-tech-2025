@@ -22,7 +22,8 @@ Veja os projetos e desafios que completei durante a bootcamp:
 - [Desafio 2: Criando seu Board de Tarefas com Java](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio2-BoardTasks)
 - [Desafio 3: ]()
 - [Desafio 4: ]()
-- [Desafio 5: ]()
+- [Desafio 5: 
+Criando um Clone do BuzzFeed com Angular]()
 - [Desafio 6: ]()
 - [Desafio 7: ]()
 - [Desafio 8: ]()

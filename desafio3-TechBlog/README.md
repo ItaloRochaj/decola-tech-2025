@@ -1,6 +1,6 @@
 # 📘 Tech Blog
 
-Este repositório corresponde ao Desafio #03 da [Bootcamp Decola Tech 2025](https://www.dio.me/bootcamp/decola-tech-2025) para fornecer instruções sobre como criar uma aplicação de blog funcional, construindo componentes inteligentes e aprendendo como organizar seu projeto Angular utilizando as ferramentas que o próprio framework oferece., incluindo como melhoria mias seções e e funcionalidades e o deploy no [Vercel](https://vercel.com/).
+Este repositório corresponde ao Desafio #03 da [Bootcamp Decola Tech 2025](https://www.dio.me/bootcamp/decola-tech-2025) para fornecer instruções sobre como criar uma aplicação de blog funcional, construindo componentes inteligentes e aprendendo como organizar seu projeto Angular utilizando as ferramentas que o próprio framework oferece, incluindo como melhoria mias seções e e funcionalidades e o deploy no [Vercel](https://vercel.com/).
 
 > ⚠️ **Nota:** [projeto original da DIO](https://github.com/felipeAguiarCode/angular-blog).
 
@@ -23,17 +23,17 @@ O desafio deste projeto é desenvolver uma aplicação de blog funcional com Ang
 O objetivo é criar um Tech Blog dinâmico e escalável, permitindo a publicação de artigos, categorização de conteúdos e interação com os usuários. Como melhorias, o desafio inclui a implementação de novas seções e funcionalidades para aprimorar a experiência do usuário. Por fim, será realizado o deploy da aplicação na Vercel, garantindo acessibilidade e performance.
 
 **1. Funcionalidades Principais:**  
--[x] **Página Inicial**: Exibe uma lista de artigos em destaque, artigos populares e outras notícias relevantes.  
--[x] **Componentes Reutilizáveis**:
+- [x] **Página Inicial**: Exibe uma lista de artigos em destaque, artigos populares e outras notícias relevantes.  
+- [x] **Componentes Reutilizáveis**:
    - `MenuBarComponent`: Barra de navegação com links para diferentes seções do blog.
    - `MenuTitleComponent`: Título do blog com estilização personalizada.
    - `BigCardComponent`: Componente para exibir o artigo principal em destaque.
    - `SmallCardComponent`: Componente para exibir artigos menores em uma lista.
    - `PopularCardComponent`: Componente para exibir uma lista de artigos populares.
    - `MenuFooterComponent`: Rodapé com links para redes sociais e outras páginas.  
--[x] **Responsividade**: O layout é responsivo e se adapta a diferentes tamanhos de tela.  
--[x] **Integração com APIs**: Possibilidade de integração com APIs para buscar e exibir artigos dinâmicos (futuro).  
--[x] **Boas Práticas de Código**: Utilização de boas práticas de desenvolvimento, como modularização, componentes reutilizáveis e estilização consistente.
+- [x] **Responsividade**: O layout é responsivo e se adapta a diferentes tamanhos de tela.  
+- [x] **Integração com APIs**: Possibilidade de integração com APIs para buscar e exibir artigos dinâmicos (futuro).  
+- [x] **Boas Práticas de Código**: Utilização de boas práticas de desenvolvimento, como modularização, componentes reutilizáveis e estilização consistente.
 
 
 **2. Requisitos:**

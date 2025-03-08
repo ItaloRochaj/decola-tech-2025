@@ -44,10 +44,10 @@ O objetivo é criar um Tech Blog dinâmico e escalável, permitindo a publicaç�
 Este projeto é uma excelente oportunidade para praticar e aprimorar habilidades em Angular, desenvolvimento de front-end, testes unitários e deploy de aplicações web.
 
 ### 🖨️ Imagens do Projeto
-<img width="350" src="">
-<img width="350" src="">
-<img width="350" src="">
-<img width="350" src="">
+<img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio3-TechBlog/assets/img1.png">
+<img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio3-TechBlog/assets/img2.png">
+<img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio3-TechBlog/assets/img3.png">
+<img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio3-TechBlog/assets/img4.png">
 
 ### ▶️ Intruções de Uso
 **1. Pré-requisitos:**

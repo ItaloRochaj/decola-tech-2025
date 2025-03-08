@@ -1,0 +1,37 @@
+.container__articles{
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  @media(min-width: 700px) {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+}
+
+.articles__others{
+  margin-bottom: 20px;
+}
+
+.articles__popular{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30px;
+}
+
+.articles__title{
+  display: flex;
+  margin-left: 320px;
+  margin-top: 20px;
+  font-style: bold;
+  font-weight: 900;
+}
+
+.articles__title h2 {
+  font-size: 22px;
+  margin-bottom: 5px;
+}

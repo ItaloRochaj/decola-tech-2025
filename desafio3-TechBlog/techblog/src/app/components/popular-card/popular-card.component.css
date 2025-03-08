@@ -1,0 +1,46 @@
+.popular-card__container {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.popular-card__item {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 15px;
+  border-radius: 5px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.popular-card__item:hover {
+  transform: scale(1.02);
+}
+
+.popular-card__photo img {
+  width: 120px;
+  border-radius: 5px;
+}
+
+.popular-card__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 1000px;
+  margin-left: 15px;
+}
+
+.popular-card__description p {
+  font-size: 14px;
+  margin-top: 3px;
+}
+
+.popular-card__description p a {
+  text-decoration: none;
+  color: grey;
+}
+
+.container__popular-card-separator {
+  width: 1250px;
+  margin-top: 3px;
+}

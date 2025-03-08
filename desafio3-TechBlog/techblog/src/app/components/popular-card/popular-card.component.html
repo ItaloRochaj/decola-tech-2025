@@ -1,0 +1,18 @@
+<div class="popular-card__container">
+  <div class="popular-card__item">
+    <div class="popular-card__photo">
+        <img [src]="photoCover" alt="Imagem da notícia"/>
+    </div>
+    <div class="popular-card__content">
+        <div class="popular-card__news-title">
+          <h3><a [routerLink]="['content', Id]">{{ cardTitle }}</a></h3>
+        </div>
+        <div class="popular-card__description">
+          <p><a [routerLink]="['content', Id]">{{ cardDescription}}</a></p>
+        </div>
+    </div>
+  </div>
+  <div class="container__popular-card-separator">
+    <hr/>
+  </div>
+</div>

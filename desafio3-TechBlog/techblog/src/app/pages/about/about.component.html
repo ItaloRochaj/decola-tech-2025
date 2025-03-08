@@ -1,0 +1,16 @@
+<div class="container__about">
+  <h1>{{ aboutData.title }}</h1>
+  <p>{{ aboutData.description }}</p>
+
+  <h2>Contato</h2>
+  <p>{{ aboutData.contact }}<a href="mailto:contato&#64;techblog.com"><span>contato&#64;techblog.com</span></a></p>
+
+  <h2>Nossa Equipe</h2>
+  <p>{{ aboutData.team[0].text }}</p>
+
+  <ul>
+    <li *ngFor="let member of aboutData.team.slice(1)">
+      <strong>{{ member.name }}</strong> - {{ member.role }}
+    </li>
+  </ul>
+</div>

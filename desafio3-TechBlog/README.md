@@ -5,11 +5,11 @@ Este repositório corresponde ao Desafio #03 da [Bootcamp Decola Tech 2025](http
 > ⚠️ **Nota:** [projeto original da DIO](https://github.com/felipeAguiarCode/angular-blog).
 
 ### Índice
-- [Desafio de Projeto]()
-- [Tecnologias Utilizadas]()
-- [Objetivos]()
-- [Imagens do Projeto]()
-- [Instruções de Uso]()
+- [Desafio de Projeto](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio3-TechBlog#-desafio-de-projeto)
+- [Tecnologias Utilizadas](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio3-TechBlog#%EF%B8%8F-tecnologias-utilizadas)
+- [Objetivos](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio3-TechBlog#-objetivos)
+- [Imagens do Projeto](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio3-TechBlog#%EF%B8%8F-imagens-do-projeto)
+- [Instruções de Uso](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio3-TechBlog#%EF%B8%8F-intru%C3%A7%C3%B5es-de-uso)
 
 ### 🎯 Desafio de Projeto
 O desafio deste projeto é desenvolver uma aplicação de blog funcional com Angular, construindo componentes inteligentes e organizando o projeto de forma eficiente utilizando as ferramentas nativas do framework.

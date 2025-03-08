@@ -39,7 +39,7 @@ O objetivo é criar um Tech Blog dinâmico e escalável, permitindo a publicaç�
 **2. Requisitos:**
 - [x] **Angular 14:** Utilizar a versão 14 do Angular para o desenvolvimento da aplicação.
 - [x] **Componentização:** Dividir a aplicação em componentes reutilizáveis e bem estruturados.
-- [x] **Deploy:** Configurar e realizar o deploy da aplicação no Vercel. O link da aplicação depois de realizado o deploy [techblog-news.vercel.app](techblog-news.vercel.app).
+- [x] **Deploy:** Configurar e realizar o deploy da aplicação no Vercel. O link da aplicação depois de realizado o deploy [https://techblog-news.vercel.app/](https://techblog-news.vercel.app/).
 
 Este projeto é uma excelente oportunidade para praticar e aprimorar habilidades em Angular, desenvolvimento de front-end, testes unitários e deploy de aplicações web.
 

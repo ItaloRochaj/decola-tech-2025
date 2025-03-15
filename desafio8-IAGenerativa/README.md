@@ -72,3 +72,24 @@ Clique em **Try it out**, selecione uma imagem de teste ou carregue uma do seu c
 ![print6]()  
 
 Com este guia, aprendemos a explorar as funcionalidades da `IA Generativa no Azure`, desde a criação de imagens até a extração de texto com `OCR`. Essas tecnologias impulsionam a criatividade e otimizam processos em diversas áreas. Para aprofundar seus conhecimentos, explore a documentação oficial e realize seus próprios experimentos! 🚀  
+
+### ✅ Conclusão
+Este guia serve como repositório de estudos, desafios e projetos da [Bootcamp Decola Tech 2025](https://www.dio.me/bootcamp/decola-tech-2025). Explore os recursos compartilhados necessários para atender às suas necessidades da bootcamp.
+
+## 🖋️ Créditos
+Este repositório foi desenvolvido como guia de estudos da Bootcamp Decola Tech 2025, para avaliar o ensinado na bootcamp.
+
+*Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a Avanade ou franquia DIO, ou suas empresas associadas.*
+
+### 👨🏻‍💻 Autor:
+<table style="border=0">
+  <tr>
+    <td align="left">
+      <a href="https://github.com/ItaloRochaj">
+        <span><b>Italo Rocha</b></span>
+      </a>
+      <br>
+      <span>Full-Stack Development</span>
+    </td>
+  </tr>
+</table>

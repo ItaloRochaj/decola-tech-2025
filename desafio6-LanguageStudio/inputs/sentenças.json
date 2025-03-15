@@ -1,0 +1,40 @@
+{
+    "documents": [
+        {
+            "id": "id__1177",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0,
+                "neutral": 0,
+                "negative": 1
+            },
+            "sentences": [
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 0,
+                    "length": 220,
+                    "text": "Tired hotel with poor service ...",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.02,
+                                "negative": 0.98
+                            },
+                            "offset": 7,
+                            "length": 5,
+                            "text": "hotel"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2025-01-01"
+}

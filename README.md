@@ -21,12 +21,11 @@ Veja os projetos e desafios que completei durante a bootcamp:
 - [Desafio 1: Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Render](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio1-ApiRest)
 - [Desafio 2: Criando seu Board de Tarefas com Java](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio2-BoardTasks)
 - [Desafio 3: Criando um Blog com Angular](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio3-TechBlog)
-- [Desafio 4: ]()
-- [Desafio 5: 
-Criando um Clone do BuzzFeed com Angular](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio5-BuzzFeed)
-- [Desafio 6: ]()
-- [Desafio 7: ]()
-- [Desafio 8: ]()
+- [Desafio 4: Criando um APP Full Stack de Agendamento de Barbearia com Java e Angular]()
+- [Desafio 5: Criando um Clone do BuzzFeed com Angular](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio5-BuzzFeed)
+- [Desafio 6: Análise de Sentimentos com Language Studio no Azure AI]()
+- [Desafio 7: Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados]()
+- [Desafio 8: Explorando os Recursos de IA Generativa com Copilot e OpenAI]()
 
 ### 🔗 Links Úteis
 - [Documentação Java](https://docs.oracle.com/en/java/)

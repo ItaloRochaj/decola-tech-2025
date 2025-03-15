@@ -20,63 +20,80 @@ O desafio deste projeto é desenvolver um aplicativo Full-Stack para agendamento
 | <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="html"/></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="css"/></a> <a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular" alt="angular"/></a> <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" alt="typescript"/></a> <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a> <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/></a> <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a> 
 
 ### 📋 Objetivos
-O objetivo é criar um 
+O objetivo é criar um sistema Java com Spring de agendamento de antedimento em uma barbearia, com funcionalidades tanto no backend quanto no frontend. Vamos usar JPA com Hibernate para salvar os dados no MySQL, gerenciar migrations do banco de Dados com Flyway e utilizar a lib do Material e assim explorar alguns conceitos do framework Angular.
 
 **1. Funcionalidades Principais:**  
-- [x] **Página Inicial**: Exibe uma lista de artigos em destaque, artigos populares e outras notícias relevantes.  
-- [x] **Componentes Reutilizáveis**:
-   - `MenuBarComponent`: Barra de navegação com links para diferentes seções do blog.
-   - `MenuTitleComponent`: Título do blog com estilização personalizada.
-   - `BigCardComponent`: Componente para exibir o artigo principal em destaque.
-   - `SmallCardComponent`: Componente para exibir artigos menores em uma lista.
-   - `PopularCardComponent`: Componente para exibir uma lista de artigos populares.
-   - `MenuFooterComponent`: Rodapé com links para redes sociais e outras páginas.  
-- [x] **Responsividade**: O layout é responsivo e se adapta a diferentes tamanhos de tela.  
-- [x] **Integração com APIs**: Possibilidade de integração com APIs para buscar e exibir artigos dinâmicos (futuro).  
-- [x] **Boas Práticas de Código**: Utilização de boas práticas de desenvolvimento, como modularização, componentes reutilizáveis e estilização consistente.
+- [x] **CRUD**: Permitir cadastrar, listar, editar e excluir clientes.
+- [x] **Agendamento de Horários:** Permitir que os clientes agendem horários para serviços.
+- [x] **Responsividade:** Garantir que o frontend seja responsivo e funcione bem em diferentes dispositivos.
+- [x] **Integração com APIs:** Integrar o frontend com o backend para operações de CRUD.
 
 
 **2. Requisitos:**
-- [x] **Angular 14:** Utilizar a versão 14 do Angular para o desenvolvimento da aplicação.
-- [x] **Componentização:** Dividir a aplicação em componentes reutilizáveis e bem estruturados.
-- [x] **Deploy:** Configurar e realizar o deploy da aplicação no Vercel. O link da aplicação depois de realizado o deploy [https://techblog-news.vercel.app/](https://techblog-news.vercel.app/).
+- [x] **Java 21:** Utilizar a versão 21 do Java para o desenvolvimento do backend.
+- [x] **Spring Boot:** Utilizar o Spring Boot para criar a API RESTful.
+- [x] **Gradle:** Utilizar o Gradle como ferramenta de automação de build.
+- [x] **Angular 19:** Utilizar a versão 19 do Angular para o desenvolvimento do frontend.
+- [x] **MySQL:** Utilizar o MySQL como banco de dados.
+- [x] **Docker:** Utilizar Docker para containerização das aplicações.
+- [x] **Bootstrap:** Utilizar o Bootstrap para estilização e design responsivo.
+- [x] **JavaScript:** Utilizar JavaScript para funcionalidades dinâmicas no frontend.
+- [x] **TypeScript:** Utilizar TypeScript para desenvolvimento tipado no frontend.
+- [x] **HTML:** Utilizar HTML para a estruturação das páginas web.
+- [x] **CSS:** Utilizar CSS para a estilização das páginas web.
+
 
 Este projeto é uma excelente oportunidade para praticar e aprimorar habilidades em Angular, desenvolvimento de front-end, testes unitários e deploy de aplicações web.
 
 ### 🖨️ Imagens do Projeto
-<img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio3-TechBlog/assets/img1.png">
-<img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio3-TechBlog/assets/img2.png">
-<img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio3-TechBlog/assets/img3.png">
-<img width="350" src="https://github.com/ItaloRochaj/decola-tech-2025/blob/main/desafio3-TechBlog/assets/img4.png">
+<img width="350" src="">
+<img width="350" src="">
+<img width="350" src="">
+<img width="350" src="">
 
 ### ▶️ Intruções de Uso
-**1. Pré-requisitos:**
-Certifique-se de ter o [Node.js 16.16.0](https://nodejs.org/pt/blog/release/v16.16.0) e o Angular CLI 14.2.13 instalados em sua máquina. 
+**1. Pré-requisitos:**  
+Certifique-se de ter o [Node.js 20.18.3](https://nodejs.org/pt/blog/release/v20.18.3), o [Java 21.0.6](https://www.oracle.com/br/java/technologies/downloads/#jdk21-windows), o Angular CLI 19.1.5 e o [Docker](https://www.docker.com/) instalados em sua máquina. 
 
-Você pode verificar se o Node.js e o Angular CLI estão instalados na máquina executando:
+Você pode verificar se o Java, Node.js, Angular CLI e Docker estão instalados na máquina executando:
 
 ```
 node -v
 ng version
+java -version 
+docker -v
 ```
 
 **2. Instalação:**
-Para instalar o  [Node.js 16.16.0](https://nodejs.org/pt/blog/release/v16.16.0), deve-se baixar e instalar na máquina pelo arquivo `.exe`. Já o angular pode ser instalado através do terminal:
+Clone os repositórios para a sua máquina local:
 ```
-npm install @angular/cli@14.2.13
+git clone https://github.com/ItaloRochaj/barber-shop-ui.git
+git clone https://github.com/ItaloRochaj/barber-shop-api.git
+```
+
+**3. Configuração do Backend:**
+Navegue até o diretório do backend:
+```
+cd barber-shop-api
+```
+
+Construa e inicie os containers Docker:
+```
+docker-compose up --build
+```
+
+**4. Configuração do Frontend:**
+Navegue até o diretório do frontend:
+```
+cd barber-shop-ui
+```
+
+Para instalar o [Node.js 20.18.3](https://nodejs.org/pt/blog/release/v20.18.3), deve-se baixar e instalar na máquina pelo arquivo `.exe`. Já o angular pode ser instalado através do terminal:
+```
+npm install @angular/cli@19.1.5
 
 //global
-npm install -g @angular/cli@14.2.13
-```
-
-Clone o repositório para a sua máquina local:
-```
-git clone https://github.com/ItaloRochaj/techblog.git
-```
-
-Navegue até o diretório do projeto:
-```
-cd tech blog
+npm install -g @angular/cli@19.1.5
 ```
 
 Instale as dependências do projeto:
@@ -85,7 +102,7 @@ npm install
 ```
 
 **3. Executando o Servidor de Desenvolvimento:**
-Para iniciar o servidor de desenvolvimento, execute:
+Para iniciar o servidor de desenvolvimento, execute `Run`do projeto Java e execute:
 ```
 ng serve
 ```
@@ -100,25 +117,6 @@ ng build
 
 Os artefatos de construção serão armazenados no diretório dist/.
 
-**5. Deploy:**
-Para realizar o deploy da aplicação no Vercel, siga os passos abaixo:
-
-Instale o Vercel CLI globalmente:
-```
-npm install -g vercel
-```
-
-Faça login no Vercel:
-```
-vercel login
-```
-
-Execute o comando de deploy no diretório do projeto:
-```
- vercel
-```
-
-Siga as instruções fornecidas pelo Vercel CLI para completar o processo de deploy.
 
 ### ✅ Conclusão
 Este guia serve como repositório de estudos, desafios e projetos da [Bootcamp Decola Tech 2025](https://www.dio.me/bootcamp/decola-tech-2025). Explore os recursos compartilhados necessários para atender às suas necessidades da bootcamp.

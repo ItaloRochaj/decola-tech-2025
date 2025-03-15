@@ -5,11 +5,11 @@ Este repositório corresponde ao Desafio #04 da [Bootcamp Decola Tech 2025](http
 > ⚠️ **Nota:** projetos originais da DIO - [Backend](https://github.com/digitalinnovationone/barber-shop-api) e [Frontend](https://github.com/digitalinnovationone/barber-shop-ui).
 
 ### Índice
-- [Desafio de Projeto]()
-- [Tecnologias Utilizadas]()
-- [Objetivos]()
-- [Imagens do Projeto]()
-- [Instruções de Uso]()
+- [Desafio de Projeto](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio4-BarberShop#-desafio-de-projeto)
+- [Tecnologias Utilizadas](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio4-BarberShop#%EF%B8%8F-tecnologias-utilizadas)
+- [Objetivos](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio4-BarberShop#-objetivos)
+- [Imagens do Projeto](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio4-BarberShop#%EF%B8%8F-imagens-do-projeto)
+- [Instruções de Uso](https://github.com/ItaloRochaj/decola-tech-2025/tree/main/desafio4-BarberShop#%EF%B8%8F-intru%C3%A7%C3%B5es-de-uso)
 
 ### 🎯 Desafio de Projeto
 O desafio deste projeto é desenvolver um aplicativo Full-Stack para agendamentos em barbearias, utilizando Java no backend e Angular no frontend. O sistema permitirá o cadastro de clientes, agendamento de horários e gerenciamento de serviços.

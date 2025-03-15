@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: barber-shop-api
+  datasource:
+    url: jdbc:mysql://localhost:3306/barber_shop?serverTimezone=UTC
+    username: italo
+    password: "japa@20"
+  jpa:
+    hibernate:
+      ddl-auto: validate
+      flyway:
+        enabled: false

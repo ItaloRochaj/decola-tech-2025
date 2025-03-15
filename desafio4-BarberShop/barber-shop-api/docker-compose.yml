@@ -1,0 +1,50 @@
+services:
+  app:
+    build:
+      context: .
+    command: bash start-dev.sh
+    environment:
+      DB_URL: jdbc:mysql://db:3306/barber-shop-api
+      DB_USER: italo
+      DB_PASSWORD: japa@20
+      SPRING_PROFILES_ACTIVE: dev
+    ports:
+      - "8080:8080"
+      - "5005:5005"
+    volumes:
+      - .:/barber-shop-api:z
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - barber-shop-net
+    restart: unless-stopped
+
+  db:
+    image: mysql:8.0
+    environment:
+      MYSQL_ROOT_PASSWORD: japa@20
+      MYSQL_USER: italo
+      MYSQL_PASSWORD: japa@20
+      MYSQL_DATABASE: barber-shop-api
+    ports:
+      - "3306:3306"
+    networks:
+      - barber-shop-net
+    restart: unless-stopped
+    volumes:
+      - db-data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      retries: 5
+      start_period: 30s
+      timeout: 5s
+
+networks:
+  barber-shop-net:
+    name: barber-shop-net
+    external: true
+
+volumes:
+  db-data:
